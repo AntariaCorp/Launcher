@@ -10,8 +10,8 @@ Durant ce processus, si tu as besoin d'aide, rends toi sur notre [wiki](https://
 
 ## Liens utiles
 
-> **Site web:** https://www.antariacorp.fr
-> **Boutique:** https://boutique.antariacorp.fr
-> **Instagram:** @antariacorp
-> **Twitter:** @antariacorp
-> **Discord:** https://discord.antariacorp.fr
+> **Site web:** https://www.antariacorp.fr  
+> **Boutique:** https://boutique.antariacorp.fr  
+> **Instagram:** @antariacorp  
+> **Twitter:** @antariacorp  
+> **Discord:** https://discord.antariacorp.fr  
